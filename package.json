@@ -1,0 +1,34 @@
+{
+  "name": "logks-cheddo",
+  "version": "1.0.18",
+  "description": "",
+  "main": "index.js",
+  "types": "index.js",
+  "type": "commonjs",
+  "typings": "./index.d.ts",
+  "scripts": {},
+  "author": "KHUNESS",
+  "license": "CHEDDO TECH",
+  "dependencies": {
+    "@types/node": "14.14.22",
+    "jsonwebtoken": "8.5.1",
+    "loglevel": "1.7.1",
+    "moment": "2.29.1"
+  },
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "declaration": true,
+    "outDir": "./lib",
+    "strict": true
+  },
+  "keywords": [
+    "cheddo tech",
+    "log",
+    "logks-cheddo"
+  ],
+  "devDependencies": {
+    "tslint": "6.1.3",
+    "typescript": "2.9.2"
+  }
+}

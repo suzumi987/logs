@@ -1,0 +1,15 @@
+{
+  "version": "1.0.3",
+  "compilerOptions": {
+      "module": "commonjs",
+      "declaration": true,
+      "outDir": "./dist",
+      "out": "./dist"
+  },
+  "files": [
+      "index.d.ts"
+  ],
+  "include": [
+    "src/**/*"
+  ]
+}
